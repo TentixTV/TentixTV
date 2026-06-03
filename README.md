@@ -1,9 +1,11 @@
+<!-- HEADER ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&pause=800&color=FF3366&center=true&vCenter=true&width=700&height=70&lines=HI,+I'M+SANDRO;+WELCOME+TO+MY+SPACE;+DEVELOPER+%2B+3D+ARTIST" alt="Typing SVG" />
 </p>
 
+<!-- BANNER OR ANIMATED LINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=11,2,3,4,5,6&height=120&section=header&text=TENTIX&fontSize=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,2,3,4,5,6&height=120&section=header&text=TENTIX&fontSize=50&animation=twinkling" width="100%" />
 </p>
 
 ---
@@ -22,7 +24,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TentixTV&theme=tokyonight&hide_border=true" width="100%"/>
     </td>
   </tr>
 </table>
@@ -76,12 +78,13 @@ Wenn die IDE schließt, geht das Render-Fenster auf. Mein kreativer Spielplatz:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TentixTV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentixTV&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
+<!-- ANIMATED FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=egg&color=gradient&customColorList=11,2,3,4,5,6&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=11,2,3,4,5,6&height=60&section=footer" width="100%" />
 </p>

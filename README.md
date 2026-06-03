@@ -25,8 +25,9 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
 ## 🏆 Live Performance Ranking
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TentixTV&show_icons=true&theme=tokyonight&title_color=00FFCC&icon_color=00FFCC&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentixTV&layout=compact&theme=tokyonight&title_color=00FFCC&icon_color=00FFCC&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://img.shields.io/badge/ACCOUNT__STATUS-ONLINE-00FFCC?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GLOBAL__RANK-S--TIER-00FFCC?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=TentixTV&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" />
 </p>
 
 <p align="center">

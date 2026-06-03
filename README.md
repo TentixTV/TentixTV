@@ -11,13 +11,13 @@
 ## 🪐 Profile Architecture
 
 <p align="center">
-Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performance Anwendungen, intuitive Softwarearchitektur und immersive 3D-Pipeline-Entwicklung. Die Schnittstelle zwischen präziser Logik und visuellem High-End-Design und Vika. <3
+Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performance Anwendungen, intuitive Softwarearchitektur und immersive 3D-Pipeline-Entwicklung. Die Schnittstelle zwischen präziser Logik und visuellem High-End-Design.
 </p>
 
 <p align="center">
   <b>🚀 Core Focus:</b> System-Optimierung, Custom-Clients & Tools &nbsp;&bull;&nbsp; 
   <b>🛠️ Current Stack:</b> Multi-Language Dev & 3D Design &nbsp;&bull;&nbsp; 
-  <b>⚡ Philosophy:</b> Clean code, zero compromise.
+  <b>⚡ Philosophy:</b> Clean code, zero compromise and Vika <3
 </p>
 
 ---

@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,23,00FFCC&height=150&section=header&text=TENTIX&fontSize=65&animation=twinkling&fontColor=00FFCC" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,2,3,4,5,6&height=140&section=header&text=TENTIX&fontSize=55&animation=twinkling" width="100%" />
 </p>
 
 ---
@@ -38,45 +38,45 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
 
 ## 💻 Technical Stack
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+<table width="100%" style="border-collapse: collapse; border: none; margin: 0; padding: 0;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 0 20px 0 0;">
       <samp><b>// CORE SYSTEMS & SCRIPTING</b></samp><br><br>
-      <code>Python     [92%] ██████████████████░░</code><br>
-      <code>JavaScript [90%] ██████████████████░░</code><br>
-      <code>Lua        [90%] ██████████████████░░</code><br>
-      <code>Java       [80%] ████████████████░░░░</code><br>
-      <code>C++        [64%] █████████████░░░░░░░</code><br>
-      <code>C#         [37%] ███████░░░░░░░░░░░░░</code>
+      <code>Python     [92%] ██████████████████████░░</code><br>
+      <code>JavaScript [90%] █████████████████████░░░</code><br>
+      <code>Lua        [90%] █████████████████████░░░</code><br>
+      <code>Java       [80%] ██████████████████░░░░░░</code><br>
+      <code>C++        [64%] ██████████████░░░░░░░░░░</code><br>
+      <code>C#         [37%] ████████░░░░░░░░░░░░░░░░</code>
     </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+    <td width="50%" valign="top" style="border: none; padding: 0 0 0 20px;">
       <samp><b>// DATA ARCHITECTURE & FLOW</b></samp><br><br>
-      <code>T-SQL      [85%] █████████████████░░░</code><br>
-      <code>JSON       [80%] ████████████████░░░░</code><br>
-      <code>XML        [78%] ████████████████░░░░</code><br>
-      <code>SQL        [76%] ███████████████░░░░░</code><br>
-      <code>PL/SQL     [74%] ███████████████░░░░░</code>
+      <code>T-SQL      [85%] ███████████████████░░░░░</code><br>
+      <code>JSON       [80%] ██████████████████░░░░░░</code><br>
+      <code>XML        [78%] █████████████████░░░░░░░</code><br>
+      <code>SQL        [76%] █████████████████░░░░░░░</code><br>
+      <code>PL/SQL     [74%] ████████████████░░░░░░░░</code>
     </td>
   </tr>
-  <tr>
-    <td style="border: none; padding-top: 25px;"></td>
-    <td style="border: none; padding-top: 25px;"></td>
+  <tr style="border: none;">
+    <td style="border: none; padding-top: 30px;"></td>
+    <td style="border: none; padding-top: 30px;"></td>
   </tr>
-  <tr>
-    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding-0 20px 0 0;">
       <samp><b>// SPECIALIZED & FUNCTIONAL</b></samp><br><br>
-      <code>Haxe       [76%] ███████████████░░░░░</code><br>
-      <code>Racket     [50%] ██████████░░░░░░░░░░</code><br>
-      <code>Swift      [37%] ███████░░░░░░░░░░░░░</code><br>
-      <code>F#         [30%] ██████░░░░░░░░░░░░░░</code><br>
-      <code>Kotlin     [24%] █████░░░░░░░░░░░░░░░</code>
+      <code>Haxe       [76%] █████████████████░░░░░░░</code><br>
+      <code>Racket     [50%] ████████████░░░░░░░░░░░░</code><br>
+      <code>Swift      [37%] ████████░░░░░░░░░░░░░░░░</code><br>
+      <code>F#         [30%] ██████░░░░░░░░░░░░░░░░░░</code><br>
+      <code>Kotlin     [24%] █████░░░░░░░░░░░░░░░░░░░</code>
     </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+    <td width="50%" valign="top" style="border: none; padding-0 0 0 20px;">
       <samp><b>// WEB ECOSYSTEMS & BACKEND</b></samp><br><br>
-      <code>HTML / CSS [82%] ████████████████░░░░</code><br>
-      <code>PHP        [82%] ████████████████░░░░</code><br>
-      <code>TypeScript [70%] ██████████████░░░░░░</code><br>
-      <code>ASP.NET    [57%] ███████████░░░░░░░░░</code>
+      <code>HTML / CSS [82%] ██████████████████░░░░░░</code><br>
+      <code>PHP        [82%] ██████████████████░░░░░░</code><br>
+      <code>TypeScript [70%] ████████████████░░░░░░░░</code><br>
+      <code>ASP.NET    [57%] ████████████░░░░░░░░░░░░</code>
     </td>
   </tr>
 </table>
@@ -85,14 +85,14 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
 
 ## 🎨 Creative Suite (Design & Motion)
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+<table width="100%" style="border-collapse: collapse; border: none; margin: 0; padding: 0;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 0 20px 0 0;">
       <samp><b>► 3D & PIPELINE ENVIRONMENT</b></samp><br><br>
       <code>■ Blender</code> <small>(Main Architecture / Advanced Shading)</small><br>
       <code>■ Cinema 4D</code> <small>(Procedural Motion Design)</small>
     </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+    <td width="50%" valign="top" style="border: none; padding: 0 0 0 20px;">
       <samp><b>► POST-PRODUCTION & VFX</b></samp><br><br>
       <code>■ After Effects</code> <small>(Advanced Compositing & Motion)</small><br>
       <code>■ Photoshop</code> <small>(Advanced Asset Manipulation)</small><br>
@@ -101,7 +101,7 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
   </tr>
 </table>
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-Main_Focus-F5792A?style=flat-square&logo=blender&logoColor=white" />&nbsp;
@@ -114,5 +114,5 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,23,00FFCC&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,2,3,4,5,6&height=120&section=footer" width="100%" />
 </p>

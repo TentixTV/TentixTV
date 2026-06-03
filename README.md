@@ -22,10 +22,15 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
 
 ---
 
-## 📈 Live Git Commit Flow
+## 🏆 Live Performance Ranking
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TentixTV&bg_color=05070a&color=00FFCC&line=00FFCC&point=ffffff&area=true&hide_border=true&font_color=ffffff&area_color=00FFCC" width="100%" alt="TentixTV Git Activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TentixTV&show_icons=true&theme=tokyonight&title_color=00FFCC&icon_color=00FFCC&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentixTV&layout=compact&theme=tokyonight&title_color=00FFCC&icon_color=00FFCC&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TentixTV&bg_color=0d1117&color=00FFCC&line=00FFCC&point=ffffff&area=true&hide_border=true&font_color=ffffff&area_color=00FFCC" width="100%" />
 </p>
 
 ---
@@ -113,11 +118,11 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
   <img src="https://img.shields.io/badge/Blender-Main_Focus-F5792A?style=flat-square&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Cinema_4D-Advanced-000000?style=flat-square&logo=maxon&logoColor=white" />
   <img src="https://img.shields.io/badge/After_Effects-Advanced-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-Advanced-31A8FF?style=flat-square&gradient=00FFCC&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-Advanced-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Premiere-Cutter-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
 </p>
 
-<br><br><br>
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,00FFCC&height=100&section=footer" width="100%" />

@@ -8,15 +8,29 @@
 
 ---
 
+## 🪐 Profile Architecture
+
+<p align="center">
+Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performance Anwendungen, intuitive Softwarearchitektur und immersive 3D-Pipeline-Entwicklung. Die Schnittstelle zwischen präziser Logik und visuellem High-End-Design.
+</p>
+
+<p align="center">
+  <b>🚀 Core Focus:</b> System-Optimierung, Custom-Clients & Tools &nbsp;&bull;&nbsp; 
+  <b>🛠️ Current Stack:</b> Multi-Language Dev & 3D Design &nbsp;&bull;&nbsp; 
+  <b>⚡ Philosophy:</b> Clean code, zero compromise and Vika <3
+</p>
+
+---
+
 <table width="100%" style="border-collapse: collapse; border: none; margin: 0; padding: 0;">
   <tr>
     <td width="55%" valign="top" style="border: none; padding-right: 20px;">
-      <h3>🚀 About Me</h3>
-      <p>Hey there! Ich bin Sandro, ein Entwickler und Technical Artist aus Deutschland. Ich bewege mich an der Schnittstelle zwischen komplexer Softwarearchitektur und High-End Visual Design – wo Logik auf saubere Ästhetik trifft.</p>
+      <h3>🚀 Identity Ledger</h3>
+      <p>Hey! Ich bin Sandro. Seit mittlerweile über 6 Jahren bewege ich mich tief im Bereich der Softwareentwicklung und System-Optimierung. Meine Leidenschaft liegt darin, performanten, sauberen Code zu schreiben und diesen in Blender mit High-End-Visuals, Shading und detaillierten Environments zu kombinieren. Wenn die IDE schließt, optimiere ich Render-Pipelines oder verliere mich in komplexen Node-Bäumen.</p>
       <ul>
-        <li>🎂 <b>Born:</b> June 20th, 2005</li>
-        <li>🛠️ <b>Focus:</b> Clean code, modern UI/UX design & performance optimization</li>
-        <li>⚡ <b>Philosophy:</b> Clean code, zero compromise and Vika <3</li>
+        <li>🌍 <b>Location:</b> Leipzig, Germany</li>
+        <li>📅 <b>Born:</b> June 20th, 2005 (20 y/o)</li>
+        <li>🎯 <b>Interests:</b> Tactical Shooters, Open-World RPGs & Sim Racing Physics</li>
       </ul>
     </td>
     <td width="45%" valign="top" style="border: none; padding-left: 20px;" align="center">
@@ -33,8 +47,8 @@
 ## 🏆 Live Performance Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-008080?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CORE__STACK-OPTIMIZED-008080?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-008080?style=for-the-badge&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/CORE__STACK-OPTIMIZED-008080?style=for-the-badge&labelColor=0d1117" />&nbsp;
   <img src="https://komarev.com/ghpvc/?username=TentixTV&color=008080&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" />
 </p>
 
@@ -101,21 +115,21 @@
 
 ## 🎨 Creative Suite (Design & Motion)
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>3D & Environment</h3>
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>3D & Environment Architecture</h3>
       <ul>
-        <li><b>Blender</b> <small>(Main Architecture / Modeling / Shading)</small></li>
-        <li><b>Cinema 4D</b> <small>(Advanced Motion Design)</small></li>
+        <li><b>Blender</b> <small>(Main Focus / Advanced Modeling / Shading / Simulation)</small></li>
+        <li><b>Cinema 4D</b> <small>(Procedural Motion Design & FX)</small></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>Post-Production & VFX</h3>
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+      <h3>Post-Production & VFX Pipeline</h3>
       <ul>
-        <li><b>After Effects</b> <small>(Advanced Compositing & VFX)</small></li>
-        <li><b>Photoshop</b> <small>(Advanced Image Manipulation)</small></li>
-        <li><b>Premiere Pro / Camtasia</b> <small>(Video Editing / Cut)</small></li>
+        <li><b>After Effects</b> <small>(Advanced Compositing, Motion Graphics & VFX)</small></li>
+        <li><b>Photoshop</b> <small>(Advanced Digital Image Manipulation & Texturing)</small></li>
+        <li><b>Premiere Pro / Camtasia</b> <small>(High-Level Video Editing & Cutting)</small></li>
       </ul>
     </td>
   </tr>
@@ -124,10 +138,10 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blender-Main_Focus-F5792A?style=flat-square&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cinema_4D-Advanced-000000?style=flat-square&logo=maxon&logoColor=white" />
-  <img src="https://img.shields.io/badge/After_Effects-Advanced-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-Advanced-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-Main_Focus-F5792A?style=flat-square&logo=blender&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Cinema_4D-Advanced-000000?style=flat-square&logo=maxon&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/After_Effects-Advanced-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Photoshop-Advanced-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Premiere-Cutter-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
 </p>
 

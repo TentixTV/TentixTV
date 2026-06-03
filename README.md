@@ -8,17 +8,25 @@
 
 ---
 
-## 🪐 Profile Architecture
-
-<p align="center">
-Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performance Anwendungen, intuitive Softwarearchitektur und immersive 3D-Pipeline-Entwicklung. Die Schnittstelle zwischen präziser Logik und visuellem High-End-Design.
-</p>
-
-<p align="center">
-  <b>🚀 Core Focus:</b> System-Optimierung, Custom-Clients & Tools &nbsp;&bull;&nbsp; 
-  <b>🛠️ Current Stack:</b> Multi-Language Dev & 3D Design &nbsp;&bull;&nbsp; 
-  <b>⚡ Philosophy:</b> Clean code, zero compromise and Vika <3
-</p>
+<table width="100%" style="border-collapse: collapse; border: none; margin: 0; padding: 0;">
+  <tr>
+    <td width="55%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>🚀 About Me</h3>
+      <p>Hey there! Ich bin Sandro, ein Entwickler und Technical Artist aus Deutschland. Ich bewege mich an der Schnittstelle zwischen komplexer Softwarearchitektur und High-End Visual Design – wo Logik auf saubere Ästhetik trifft.</p>
+      <ul>
+        <li>🎂 <b>Born:</b> June 20th, 2005</li>
+        <li>🛠️ <b>Focus:</b> Clean code, modern UI/UX design & performance optimization</li>
+        <li>⚡ <b>Philosophy:</b> Clean code, zero compromise and Vika <3</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" style="border: none; padding-left: 20px;" align="center">
+      <h3>🎮 Discord Status</h3>
+      <a href="https://discord.com/users/405441217766359051">
+        <img src="https://lanyard.cnrad.dev/api/405441217766359051?theme=dark&bg=0d1117&animated=true" width="100%" alt="Discord Status" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -120,4 +128,11 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
   <img src="https://img.shields.io/badge/Cinema_4D-Advanced-000000?style=flat-square&logo=maxon&logoColor=white" />
   <img src="https://img.shields.io/badge/After_Effects-Advanced-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-Advanced-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/
+  <img src="https://img.shields.io/badge/Premiere-Cutter-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FFCC&height=100&section=footer&v=3" width="100%" />
+</p>

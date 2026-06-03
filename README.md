@@ -26,7 +26,7 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
 
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-008080?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/repos/count/TentixTV?style=for-the-badge&label=TOTAL+REPOSITORIES&labelColor=0d1117&color=008080" />
+  <img src="https://img.shields.io/badge/CORE__STACK-OPTIMIZED-008080?style=for-the-badge&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=TentixTV&color=008080&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" />
 </p>
 

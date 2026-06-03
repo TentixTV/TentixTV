@@ -12,23 +12,15 @@
 
 ## 🪐 Profile Architecture
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performance Anwendungen, intuitive Softwarearchitektur und immersive 3D-Pipeline-Entwicklung. Die Schnittstelle zwischen präziser Logik und visuellem High-End-Design.</p>
-      <br>
-      <ul>
-        <li>🚀 <b>Core Focus:</b> System-Optimierung, Custom-Clients & Tools</li>
-        <li>🛠️ <b>Current Stack:</b> Multi-Language Development & 3D Environment Design</li>
-        <li>⚡ <b>Philosophy:</b> Clean code, optimized render layers, zero compromise.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <!-- Live Streak Stats im passenden Tokyo-Night/Cyan Theme -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TentixTV&theme=tokyonight&ring=00FFCC&fire=00FFCC&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performance Anwendungen, intuitive Softwarearchitektur und immersive 3D-Pipeline-Entwicklung. Die Schnittstelle zwischen präziser Logik und visuellem High-End-Design.
+</p>
+
+<p align="center">
+  <b>🚀 Core Focus:</b> System-Optimierung, Custom-Clients & Tools &nbsp;&bull;&nbsp; 
+  <b>🛠️ Current Stack:</b> Multi-Language Dev & 3D Design &nbsp;&bull;&nbsp; 
+  <b>⚡ Philosophy:</b> Clean code, zero compromise.
+</p>
 
 ---
 
@@ -100,15 +92,6 @@
   <img src="https://img.shields.io/badge/After_Effects-Advanced-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-Advanced-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Premiere-Cutter-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
-</p>
-
----
-
-## 📊 Performance Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TentixTV&show_icons=true&theme=tokyonight&icon_color=00FFCC&text_color=ffffff&title_color=00FFCC&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentixTV&layout=compact&theme=tokyonight&text_color=ffffff&title_color=00FFCC&hide_border=true" width="48%" />
 </p>
 
 ---

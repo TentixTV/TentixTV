@@ -24,43 +24,73 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
 
 ---
 
+## 📈 Live Git Commit Flow
+
+<p align="center">
+  <!-- Echtes, animiertes Commit-Diagramm im passenden Cyan-Style -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TentixTV&bg_color=0d1117&color=00FFCC&line=00FFCC&point=ffffff&area=true&hide_border=true&font_color=ffffff" width="100%" alt="TentixTV Git Activity" />
+</p>
+
+---
+
 ## 💻 Technical Stack
 
-### 🟢 Core Systems & Scripting
-| Language | Mastery | Visual Progress |
-| :--- | :---: | :--- |
-| **Python** | **92%** | `██████████████████████░░` |
-| **JavaScript** | **90%** | `█████████████████████░░░` |
-| **Lua** | **90%** | `█████████████████████░░░` |
-| **Java** | **80%** | `██████████████████░░░░░░` |
-| **C++** | **64%** | `██████████████░░░░░░░░░░` |
-| **C#** | **37%** | `████████░░░░░░░░░░░░░░░░` |
-
-### 🔵 Web, Backend & Frameworks
-| Technology | Mastery | Visual Progress |
-| :--- | :---: | :--- |
-| **HTML / CSS** | **82%** | `██████████████████░░░░░░` |
-| **PHP** | **82%** | `██████████████████░░░░░░` |
-| **TypeScript** | **70%** | `████████████████░░░░░░░░` |
-| **ASP.NET** | **57%** | `████████████░░░░░░░░░░░░` |
-
-### 🟣 Data, Queries & Serialization
-| Technology | Mastery | Visual Progress |
-| :--- | :---: | :--- |
-| **T-SQL** (MS SQL) | **85%** | `███████████████████░░░░░` |
-| **JSON** | **80%** | `██████████████████░░░░░░` |
-| **XML** | **78%** | `█████████████████░░░░░░░` |
-| **SQL** (General) | **76%** | `█████████████████░░░░░░░` |
-| **PL/SQL** (Oracle) | **74%** | `████████████████░░░░░░░░` |
-
-### 🟡 Specialized, Functional & Mobile
-| Language | Mastery | Visual Progress |
-| :--- | :---: | :--- |
-| **Haxe** | **76%** | `█████████████████░░░░░░░` |
-| **Racket** | **50%** | `████████████░░░░░░░░░░░░` |
-| **Swift** | **37%** | `████████░░░░░░░░░░░░░░░░` |
-| **F#** | **30%** | `██████░░░░░░░░░░░░░░░░░░` |
-| **Kotlin** | **24%** | `█████░░░░░░░░░░░░░░░░░░░` |
+<!-- ZWEISPAL TIGES GRID START -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <!-- LINKSE SÄULE: CORE SYSTEMS -->
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>🟢 Core Systems & Scripting</h3>
+      <table width="100%">
+        <tr><td><b>Python</b></td><td><b>92%</b></td><td><code>██████████████████████░░</code></td></tr>
+        <tr><td><b>JavaScript</b></td><td><b>90%</b></td><td><code>█████████████████████░░░</code></td></tr>
+        <tr><td><b>Lua</b></td><td><b>90%</b></td><td><code>█████████████████████░░░</code></td></tr>
+        <tr><td><b>Java</b></td><td><b>80%</b></td><td><code>██████████████████░░░░░░</code></td></tr>
+        <tr><td><b>C++</b></td><td><b>64%</b></td><td><code>██████████████░░░░░░░░░░</code></td></tr>
+        <tr><td><b>C#</b></td><td><b>37%</b></td><td><code>████████░░░░░░░░░░░░░░░░</code></td></tr>
+      </table>
+    </td>
+    <!-- RECHTE SÄULE: WEB & BACKEND -->
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+      <h3>🔵 Web, Backend & Frameworks</h3>
+      <table width="100%">
+        <tr><td><b>HTML / CSS</b></td><td><b>82%</b></td><td><code>██████████████████░░░░░░</code></td></tr>
+        <tr><td><b>PHP</b></td><td><b>82%</b></td><td><code>██████████████████░░░░░░</code></td></tr>
+        <tr><td><b>TypeScript</b></td><td><b>70%</b></td><td><code>████████████████░░░░░░░░</code></td></tr>
+        <tr><td><b>ASP.NET</b></td><td><b>57%</b></td><td><code>████████████░░░░░░░░░░░░</code></td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr><!-- ABSTANDSZEILE -->
+    <td style="border: none; padding-top: 20px;"></td>
+    <td style="border: none; padding-top: 20px;"></td>
+  </tr>
+  <tr>
+    <!-- LINKSE SÄULE: DATA & QUERIES -->
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>🟣 Data, Queries & Serialization</h3>
+      <table width="100%">
+        <tr><td><b>T-SQL</b></td><td><b>85%</b></td><td><code>███████████████████░░░░░</code></td></tr>
+        <tr><td><b>JSON</b></td><td><b>80%</b></td><td><code>██████████████████░░░░░░</code></td></tr>
+        <tr><td><b>XML</b></td><td><b>78%</b></td><td><code>█████████████████░░░░░░░</code></td></tr>
+        <tr><td><b>SQL</b></td><td><b>76%</b></td><td><code>█████████████████░░░░░░░</code></td></tr>
+        <tr><td><b>PL/SQL</b></td><td><b>74%</b></td><td><code>████████████████░░░░░░░░</code></td></tr>
+      </table>
+    </td>
+    <!-- RECHTE SÄULE: SPECIALIZED & FUNCTIONAL -->
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+      <h3>🟡 Specialized & Functional</h3>
+      <table width="100%">
+        <tr><td><b>Haxe</b></td><td><b>76%</b></td><td><code>█████████████████░░░░░░░</code></td></tr>
+        <tr><td><b>Racket</b></td><td><b>50%</b></td><td><code>████████████░░░░░░░░░░░░</code></td></tr>
+        <tr><td><b>Swift</b></td><td><b>37%</b></td><td><code>████████░░░░░░░░░░░░░░░░</code></td></tr>
+        <tr><td><b>F#</b></td><td><b>30%</b></td><td><code>██████░░░░░░░░░░░░░░░░░░</code></td></tr>
+        <tr><td><b>Kotlin</b></td><td><b>24%</b></td><td><code>█████░░░░░░░░░░░░░░░░░░░</code></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- ZWEISPAL TIGES GRID ENDE -->
 
 ---
 

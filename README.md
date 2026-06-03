@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,00FFCC&height=140&section=header&text=TENTIX&fontSize=55&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,2,3,4,5,6&height=140&section=header&text=TENTIX&fontSize=55&animation=twinkling" width="100%" />
 </p>
 
 ---
@@ -126,5 +126,5 @@ Interdisziplinärer Entwickler und Technical Artist mit Fokus auf High-Performan
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,00FFCC&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,2,3,4,5,6&height=100&section=footer" width="100%" />
 </p>

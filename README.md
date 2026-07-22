@@ -2,70 +2,64 @@
 <!--                     TENTIX // PROFILE ARCHITECTURE                   -->
 <!-- ==================================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:008080,100:00FFCC&height=220&section=header&text=TENTIX&fontSize=75&fontColor=00FFCC&animation=twinkling&v=3" width="100%" alt="Tentix Cyberpunk Banner" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:008080,100:00FFCC&height=220&section=header&text=TENTIX&fontSize=75&fontColor=00FFCC&animation=twinkling&v=3" width="100%" alt="Tentix Executive Header" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=00FFCC&center=true&vCenter=true&width=850&height=55&lines=3D+TECHNICAL+ARTIST+%E2%80%A2+SOFTWARE+ARCHITECT;BLENDER+GEOMETRY+NODES+%E2%80%A2+PROCEDURAL+SHADING;HIGH-PERFORMANCE+SYSTEMS+%E2%80%A2+CUSTOM+PIPELINES;CLEAN+CODE+%E2%80%A2+ZERO+COMPROMISE+%E2%80%A2+VIKA+%3C3" alt="Typing SVG Banner" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=50&lines=SOFTWARE+ARCHITECT+%E2%80%A2+SYSTEM+ENGINEER;3D+TECHNICAL+ARTIST+%E2%80%A2+VISUAL+COMPOSITOR;BLENDER+GEOMETRY+NODES+%E2%80%A2+PROCEDURAL+SHADING;HIGH-PERFORMANCE+SYSTEMS+%E2%80%A2+CLEAN+ARCHITECTURE" alt="Typing SVG Banner" width="100%" />
+</div>
 
 <p align="center">
   <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/LOCATION-LEIPZIG%2C%20GERMANY-00FFCC?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=00FFCC" /></a>&nbsp;
-  <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/AGE-21%20YO-008080?style=for-the-badge&labelColor=0d1117&logo=cakephp&logoColor=00FFCC" /></a>&nbsp;
-  <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/STATUS-SYSTEM%20ONLINE-00FFCC?style=for-the-badge&labelColor=0d1117&logo=render&logoColor=00FFCC" /></a>&nbsp;
-  <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/PHILOSOPHY-VIKA%20%3C3-ff4b8b?style=for-the-badge&labelColor=0d1117&logo=heart&logoColor=ff4b8b" /></a>
+  <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/AGE-21%20YEARS-008080?style=for-the-badge&labelColor=0d1117&logo=cakephp&logoColor=00FFCC" /></a>&nbsp;
+  <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/ROLE-SOFTWARE%20ARCHITECT%20%26%203D%20ARTIST-00FFCC?style=for-the-badge&labelColor=0d1117&logo=codeforces&logoColor=00FFCC" /></a>&nbsp;
+  <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/STATUS-SYSTEM%20OPERATIONAL-008080?style=for-the-badge&labelColor=0d1117&logo=render&logoColor=00FFCC" /></a>
 </p>
 
 <br>
 
 <!-- ==================================================================== -->
-<!--                      IDENTITY LEDGER // HUD MAIN                     -->
+<!--                     EXECUTIVE SUMMARY & BIOGRAPHY                    -->
 <!-- ==================================================================== -->
 
-<table width="100%" style="border-collapse: collapse; border: none; background-color: #0d1117;">
+<table width="100%" style="border-collapse: collapse; border: none; background-color: #0d1117; max-width: 100%;">
   <tr>
-    <td width="62%" valign="top" style="border: 1px solid #00FFCC55; padding: 25px; border-radius: 12px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); boxShadow: 0 0 15px rgba(0, 255, 204, 0.15);">
-      <h2 style="color: #00FFCC; margin-top: 0; display: flex; align-items: center;">
-        ⚡ IDENTITY LEDGER <span style="font-size: 13px; color: #8b949e; margin-left: auto;">[SYS_ID: TENTIX-21]</span>
+    <td width="65%" valign="top" style="border: 1px solid #00FFCC44; padding: 25px; border-radius: 12px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+      <h2 style="color: #00FFCC; margin-top: 0; padding-bottom: 10px; border-bottom: 1px solid #00FFCC33;">
+        💻 EXECUTIVE PROFILE // OVERVIEW
       </h2>
       <p style="color: #c9d1d9; font-size: 15px; line-height: 1.7;">
-        Willkommen in meiner digitalen Zentrale. Ich bin <b>Sandro (Tentix)</b> — 21 Jahre alt, ansässig in Leipzig, Deutschland. Als <b>Software Architect & 3D Technical Artist</b> verschmelze ich seit über 6 Jahren präzise System-Logik mit visuellem High-End Design.
+        Willkommen. Ich bin <b>Sandro (Tentix)</b> — 21-jähriger <b>Software Architect & 3D Technical Artist</b> ansässig in Leipzig, Deutschland. Seit über 6 Jahren beschäftige ich mich intensiv mit der Konzeptionierung, Optimierung und Implementierung hochperformanter Softwarearchitekturen sowie der Erstellung komplexer 3D-Render-Pipelines.
       </p>
       <p style="color: #8b949e; font-size: 14px; line-height: 1.6;">
-        Mein Fokus liegt auf der Entwicklung von <b>High-Performance Custom Clients</b>, der Optimierung komplexer Codebases und dem Aufbau prozeduraler 3D-Render-Pipelines in <b>Blender</b>. Wenn die IDE schließt, entstehen in komplexe Node-Bäumen Shader, Simulationen und visuelle Welten.
+        Meine Kernkompetenz liegt an der Schnittstelle von <b>präziser Systemlogik und visuellem High-End Compositing</b>. Ich entwickle maßgeschneiderte Clients, Engine-Erweiterungen und Server-Infrastrukturen. In der visuellen Pipeline erstelle ich prozedurale Shading-Netzwerke, Geometry Nodes Architekturen in Blender und führe Multi-Pass Compositing in After Effects durch.
       </p>
-      <hr style="border: 0; height: 1px; background: linear-gradient(90deg, #00FFCC, transparent); margin: 20px 0;" />
-      <table width="100%" style="color: #e6edf3; font-size: 13px; border: none;">
-        <tr>
-          <td width="50%">🔹 <b>Core Focus:</b> System-Optimierung & Tools</td>
-          <td width="50%">🎨 <b>3D Suite:</b> Geometry Nodes & Shading</td>
-        </tr>
-        <tr>
-          <td>🛠️ <b>Architecture:</b> Multi-Language Engine Dev</td>
-          <td>🎮 <b>Passions:</b> Sim Racing Physics & RPGs</td>
-        </tr>
-        <tr>
-          <td colspan="2" style="padding-top: 8px;">💖 <b>Guiding Philosophy:</b> <i style="color: #00FFCC;">"Clean code, zero compromise and Vika &lt;3"</i></td>
-        </tr>
-      </table>
+      <div style="margin-top: 20px; padding: 15px; border-radius: 8px; background: #0d1117; border-left: 4px solid #00FFCC;">
+        <span style="color: #00FFCC; font-weight: bold; font-size: 14px;">🎯 Core Engineering Philosophy:</span>
+        <p style="color: #c9d1d9; font-size: 13px; margin: 5px 0 0 0; italic;">
+          "High Performance, clean modular architecture, and zero compromise on execution quality."
+        </p>
+      </div>
     </td>
-    <td width="38%" valign="top" style="border: 1px solid #00FFCC55; padding: 20px; border-radius: 12px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); text-align: center;">
-      <h3 style="color: #00FFCC; margin-top: 0;">🎮 DISCORD TELEMETRY</h3>
+    <td width="35%" valign="top" style="border: 1px solid #00FFCC44; padding: 20px; border-radius: 12px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); text-align: center;">
+      <h3 style="color: #00FFCC; margin-top: 0; padding-bottom: 10px; border-bottom: 1px solid #00FFCC33;">
+        🎮 DISCORD TELEMETRY
+      </h3>
       <a href="https://discord.com/users/405441217766359051">
-        <img src="https://lanyard.cnrad.dev/api/405441217766359051?theme=dark&bg=0d1117&animated=true" width="100%" alt="Discord Live Telemetry" style="border-radius: 8px;" />
+        <img src="https://lanyard.cnrad.dev/api/405441217766359051?theme=dark&bg=0d1117&animated=true" width="100%" alt="Discord Telemetry" style="border-radius: 8px; max-width: 100%;" />
       </a>
       <br><br>
-      <table width="100%">
+      <table width="100%" style="border-collapse: collapse; border: none;">
         <tr>
-          <td width="50%">
+          <td width="50%" style="padding-right: 5px;">
             <a href="https://discord.com/users/405441217766359051">
               <img src="https://img.shields.io/badge/DISCORD-CONNECT-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="100%" />
             </a>
           </td>
-          <td width="50%">
+          <td width="50%" style="padding-left: 5px;">
             <a href="https://github.com/TentixTV">
-              <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" width="100%" />
+              <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" width="100%" />
             </a>
           </td>
         </tr>
@@ -77,60 +71,52 @@
 <br>
 
 <!-- ==================================================================== -->
-<!--                 LIVE PERFORMANCE METRICS & TROPHIES                  -->
+<!--                    CORE ARCHITECTURAL PILLARS                        -->
 <!-- ==================================================================== -->
 
-<h2 align="center" style="color: #00FFCC;">🏆 LIVE PERFORMANCE METRICS</h2>
+<h2 align="center" style="color: #00FFCC;">⚙️ ARCHITECTURAL & ENGINEERING PILLARS</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ACTIVE-00FFCC?style=for-the-badge&labelColor=0d1117&logo=powershell&logoColor=00FFCC" />&nbsp;
-  <img src="https://img.shields.io/badge/CORE_STACK-OPTIMIZED-008080?style=for-the-badge&labelColor=0d1117&logo=cpu&logoColor=00FFCC" />&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=TentixTV&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TentixTV&theme=darkhub&no-bg=false&no-frame=false&margin-w=15&row=1&column=6" width="100%" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-<table width="100%" style="border-collapse: collapse; border: none;">
+<table width="100%" style="border-collapse: collapse; border: none; max-width: 100%;">
   <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=TentixTV&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FFCC&text_color=ffffff&icon_color=00FFCC&border_color=00FFCC55&hide_border=false" width="98%" alt="Tentix GitHub Stats" />
+    <td width="33%" valign="top" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
+      <h3 style="color: #00FFCC; margin-top: 0;">⚡ High-Performance Systems</h3>
+      <p style="color: #8b949e; font-size: 13px; line-height: 1.6;">
+        Entwicklung von ressourcenschonendem Code mit Fokus auf geringe Latenz, optimale Speicherverwaltung, Profiling und maximale Durchsatzraten bei datenintensiven Prozessen.
+      </p>
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentixTV&layout=compact&theme=dark&bg_color=0d1117&title_color=00FFCC&text_color=ffffff&icon_color=00FFCC&border_color=00FFCC55&hide_border=false&langs_count=8" width="98%" alt="Top Languages" />
+    <td width="33%" valign="top" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
+      <h3 style="color: #00FFCC; margin-top: 0;">🧩 Modular Architecture</h3>
+      <p style="color: #8b949e; font-size: 13px; line-height: 1.6;">
+        Konzeption erweiterbarer Plugin-Systeme, entkoppelter API-Layer und sauberer Softwarearchitekturen nach SOLID-Prinzipien für langfristige Skalierbarkeit.
+      </p>
+    </td>
+    <td width="33%" valign="top" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
+      <h3 style="color: #00FFCC; margin-top: 0;">🔮 3D Procedural Engineering</h3>
+      <p style="color: #8b949e; font-size: 13px; line-height: 1.6;">
+        Mathematische Generierung von 3D-Geometrie über Geometry Nodes, physikalisch korrekte Shading-Netzwerke und prozedurale Textursynthese für High-End Visuals.
+      </p>
     </td>
   </tr>
 </table>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TentixTV&theme=dark&background=0d1117&stroke=00FFCC&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&border=00FFCC55" width="99%" alt="GitHub Commit Streak" />
-</div>
-
-<br>
-
 <!-- ==================================================================== -->
-<!--                     TECHNICAL ARSENAL // STACK                       -->
+<!--                  TECHNICAL ARSENAL & DOMAIN MATRIX                   -->
 <!-- ==================================================================== -->
 
-<h2 align="center" style="color: #00FFCC;">💻 TECHNICAL ARSENAL & SKILL MATRIX</h2>
+<h2 align="center" style="color: #00FFCC;">💻 TECHNICAL ARSENAL & DOMAIN MATRIX</h2>
 
-<p align="center">
-  <sub>Sämtliche Technologien im täglichen Einsatz — Entwickelt für maximale Effizienz & zero Compromise</sub>
+<p align="center" style="color: #8b949e;">
+  Strukturierte Übersicht aller im Einsatz befindlichen Sprachen, Frameworks und Entwicklungs-Tools
 </p>
 
-<table width="100%" style="border-collapse: collapse; border: none; background-color: #0d1117;">
+<table width="100%" style="border-collapse: collapse; border: none; background-color: #0d1117; max-width: 100%;">
   <tr>
-    <!-- Core Systems & Low-Level -->
+    <!-- Systems & Lower Level -->
     <td width="50%" valign="top" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
-      <h3 style="color: #00FFCC; margin-top: 0;">⚡ Core Systems & Lower-Level</h3>
-      <p style="color: #8b949e; font-size: 13px;">High-Performance Engine Logic, Custom Clients & System Tools</p>
+      <h3 style="color: #00FFCC; margin-top: 0;">🛠️ Systems & Engine Programming</h3>
+      <p style="color: #8b949e; font-size: 13px;">Low-Level Entwicklung, Multithreading, Custom Clients & System-Utilities</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -139,13 +125,13 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
       </p>
     </td>
-    <!-- Web Architecture & Backends -->
+    <!-- Web & Backend -->
     <td width="50%" valign="top" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
       <h3 style="color: #00FFCC; margin-top: 0;">🌐 Web Architecture & Backends</h3>
-      <p style="color: #8b949e; font-size: 13px;">Modern Interfaces, REST APIs & Distributed Backends</p>
+      <p style="color: #8b949e; font-size: 13px;">Verteilte Server-Strukturen, RESTful APIs & Interaktive Frontends</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -153,12 +139,12 @@
       </p>
     </td>
   </tr>
-  <tr><td style="padding: 8px 0;"></td><td style="padding: 8px 0;"></td></tr>
+  <tr><td style="padding: 6px 0;"></td><td style="padding: 6px 0;"></td></tr>
   <tr>
-    <!-- Data Engineering & Queries -->
+    <!-- Databases & Data Engineering -->
     <td width="50%" valign="top" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
-      <h3 style="color: #00FFCC; margin-top: 0;">🗄️ Data Engineering & Queries</h3>
-      <p style="color: #8b949e; font-size: 13px;">Optimierte Datenbank-Strukturen, Query-Building & Serialization</p>
+      <h3 style="color: #00FFCC; margin-top: 0;">🗄️ Database Architecture & Data Pipelines</h3>
+      <p style="color: #8b949e; font-size: 13px;">Relationale Datenbanken, Stored Procedures & Serialisierung</p>
       <p>
         <img src="https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
         <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -167,10 +153,10 @@
         <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" />
       </p>
     </td>
-    <!-- Specialized & Functional -->
+    <!-- Specialized Languages -->
     <td width="50%" valign="top" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
-      <h3 style="color: #00FFCC; margin-top: 0;">🟡 Specialized & Paradigm Languages</h3>
-      <p style="color: #8b949e; font-size: 13px;">Funktionale Programmierung & Spezialisierte Scripting Engines</p>
+      <h3 style="color: #00FFCC; margin-top: 0;">🟡 Specialized Languages & Paradigms</h3>
+      <p style="color: #8b949e; font-size: 13px;">Funktionale Architekturen, Cross-Platform Scripting & Mobile</p>
       <p>
         <img src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white" />
         <img src="https://img.shields.io/badge/Racket-39558D?style=for-the-badge&logo=racket&logoColor=white" />
@@ -185,51 +171,113 @@
 <br>
 
 <!-- ==================================================================== -->
-<!--                3D PIPELINE & CREATIVE SUITE SHOWCASE                 -->
+<!--                3D PIPELINE & CREATIVE SUITE ARCHITECTURE             -->
 <!-- ==================================================================== -->
 
-<h2 align="center" style="color: #00FFCC;">🎨 3D ARCHITECTURE & VISUAL PIPELINE</h2>
+<h2 align="center" style="color: #00FFCC;">🎨 3D ARCHITECTURE & VISUAL COMPOSITING PIPELINE</h2>
+
+<table width="100%" style="border-collapse: collapse; border: none; background-color: #0d1117; max-width: 100%;">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #00FFCC44; padding: 22px; border-radius: 10px; background: linear-gradient(180deg, #161b22 0%, #0d1117 100%);">
+      <h3 style="color: #F5792A; margin-top: 0;">🧊 3D Procedural & Environment Suite</h3>
+      <p style="color: #8b949e; font-size: 13px;">Haupt-Pipeline für 3D-Art, Asset Creation & Shading</p>
+      <ul style="color: #c9d1d9; font-size: 13.5px; line-height: 1.8; padding-left: 20px;">
+        <li><b>Blender (Main Engine):</b> Fortgeschrittenes Procedural Modeling & Geometry Nodes</li>
+        <li><b>Node-Based Shader Design:</b> Physikalisch basierte Materialien (PBR) & Subsurface Scattering</li>
+        <li><b>Physics & FX Simulations:</b> Partikel, Rauch, Flüssigkeits- & Tuchsimulationen</li>
+        <li><b>Environment Architecture:</b> Detaillierter 3D World Build & Beleuchtungs-Setups</li>
+        <li><b>Cinema 4D:</b> Procedural MoGraph Animations & Motion FX Pipelines</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #00FFCC44; padding: 22px; border-radius: 10px; background: linear-gradient(180deg, #161b22 0%, #0d1117 100%);">
+      <h3 style="color: #9999FF; margin-top: 0;">🎬 Post-Production, Compositing & VFX</h3>
+      <p style="color: #8b949e; font-size: 13px;">Visual Effects, Motion Graphics & Final Image Mastering</p>
+      <ul style="color: #c9d1d9; font-size: 13.5px; line-height: 1.8; padding-left: 20px;">
+        <li><b>After Effects:</b> Multi-Pass Render Compositing (EXR/Cryptomatte Workflow)</li>
+        <li><b>VFX Motion Graphics:</b> High-End Typografie, Kamera-Tracking & Integration</li>
+        <li><b>Photoshop:</b> PBR Texture Synthesizing & Digital Image Manipulation</li>
+        <li><b>Premiere Pro:</b> Technischer Schnitt, Color Grading (LUTs) & Master Export</li>
+        <li><b>Camtasia:</b> Schnelles Screen Mastering & Dokumentations-Schnitt</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blender-MAIN_PIPELINE-F5792A?style=for-the-badge&logo=blender&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Cinema_4D-MOTION_FX-000000?style=for-the-badge&logo=maxon&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/After_Effects-COMPOSITING-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Photoshop-TEXTURE_ART-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Premiere_Pro-CUTTING-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-MAIN_SUITE-F5792A?style=for-the-badge&logo=blender&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Cinema_4D-ADVANCED-000000?style=for-the-badge&logo=maxon&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/After_Effects-EXPERT-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Photoshop-ADVANCED-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Premiere_Pro-EXPERT-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 </p>
 
 <br>
 
-<table width="100%" style="border-collapse: collapse; border: none; background-color: #0d1117;">
+<!-- ==================================================================== -->
+<!--                     SYSTEM PERFORMANCE METRICS                       -->
+<!-- ==================================================================== -->
+
+<h2 align="center" style="color: #00FFCC;">🏆 LIVE SYSTEM METRICS & PERFORMANCE TELEMETRY</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00FFCC?style=for-the-badge&labelColor=0d1117&logo=powershell&logoColor=00FFCC" />&nbsp;
+  <img src="https://img.shields.io/badge/CORE_STACK-OPTIMIZED-008080?style=for-the-badge&labelColor=0d1117&logo=cpu&logoColor=00FFCC" />&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=TentixTV&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" />
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TentixTV&theme=darkhub&no-bg=false&no-frame=false&margin-w=10&row=1&column=6" width="100%" alt="GitHub Trophies" style="max-width: 100%;" />
+</div>
+
+<br>
+
+<table width="100%" style="border-collapse: collapse; border: none; max-width: 100%;">
   <tr>
-    <td width="33%" valign="top" style="border: 1px solid #00FFCC44; padding: 20px; border-radius: 10px; background: linear-gradient(180deg, #161b22 0%, #0d1117 100%);">
-      <h3 style="color: #F5792A; margin-top: 0;">🧊 Blender 3D Suite</h3>
+    <td width="50%" align="center" style="border: none; padding-right: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=TentixTV&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FFCC&text_color=ffffff&icon_color=00FFCC&border_color=00FFCC55&hide_border=false" width="100%" alt="GitHub Stats" style="max-width: 100%;" />
+    </td>
+    <td width="50%" align="center" style="border: none; padding-left: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentixTV&layout=compact&theme=dark&bg_color=0d1117&title_color=00FFCC&text_color=ffffff&icon_color=00FFCC&border_color=00FFCC55&hide_border=false&langs_count=8" width="100%" alt="Top Languages" style="max-width: 100%;" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TentixTV&theme=dark&background=0d1117&stroke=00FFCC&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&border=00FFCC55" width="100%" alt="GitHub Commit Streak" style="max-width: 100%;" />
+</div>
+
+<br>
+
+<!-- ==================================================================== -->
+<!--                     DEVELOPMENT WORKSTATION SETUP                    -->
+<!-- ==================================================================== -->
+
+<h2 align="center" style="color: #00FFCC;">🖥️ DEVELOPMENT ENVIRONMENT & INFRASTRUCTURE</h2>
+
+<table width="100%" style="border-collapse: collapse; border: none; background-color: #0d1117; max-width: 100%;">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
+      <h3 style="color: #00FFCC; margin-top: 0;">⚡ IDEs & System Environment</h3>
       <ul style="color: #c9d1d9; font-size: 13px; line-height: 1.8; padding-left: 18px;">
-        <li><b>Procedural Node Trees</b></li>
-        <li><b>Geometry Nodes Architecture</b></li>
-        <li><b>Complex Shading & PBR Materials</b></li>
-        <li><b>Fluid & Cloth Simulations</b></li>
-        <li><b>Hard-Surface & Environment Modeling</b></li>
+        <li><b>Primary IDEs:</b> Visual Studio Code, JetBrains Suite (IntelliJ, PyCharm, CLion)</li>
+        <li><b>Build Systems:</b> CMake, Maven, Gradle, NPM/PNPM</li>
+        <li><b>Version Control:</b> Git, GitHub Workflows, Custom CI/CD Pipelines</li>
+        <li><b>OS Stack:</b> Windows / Linux Hybrid Environments</li>
       </ul>
     </td>
-    <td width="33%" valign="top" style="border: 1px solid #00FFCC44; padding: 20px; border-radius: 10px; background: linear-gradient(180deg, #161b22 0%, #0d1117 100%);">
-      <h3 style="color: #9999FF; margin-top: 0;">🎬 After Effects & Compositing</h3>
+    <td width="50%" valign="top" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
+      <h3 style="color: #00FFCC; margin-top: 0;">🎞️ Render & Profiling Tools</h3>
       <ul style="color: #c9d1d9; font-size: 13px; line-height: 1.8; padding-left: 18px;">
-        <li><b>Multi-Pass EXR Compositing</b></li>
-        <li><b>Advanced Motion Graphics</b></li>
-        <li><b>VFX Color Grading & Lighting</b></li>
-        <li><b>Camera Tracking & Integration</b></li>
-        <li><b>Dynamic Visual FX Pipelines</b></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top" style="border: 1px solid #00FFCC44; padding: 20px; border-radius: 10px; background: linear-gradient(180deg, #161b22 0%, #0d1117 100%);">
-      <h3 style="color: #31A8FF; margin-top: 0;">🖼️ Texturing & Editing</h3>
-      <ul style="color: #c9d1d9; font-size: 13px; line-height: 1.8; padding-left: 18px;">
-        <li><b>Photoshop PBR Map Creation</b></li>
-        <li><b>High-End Image Manipulation</b></li>
-        <li><b>Premiere Pro Editing & Cutting</b></li>
-        <li><b>Camtasia Quick Production</b></li>
-        <li><b>Cinema 4D Procedural FX</b></li>
+        <li><b>3D Engines:</b> Blender Cycles & EEVEE Next, Cinema 4D Redshift</li>
+        <li><b>Profiling & Debugging:</b> Visual Studio Profiler, RenderDoc</li>
+        <li><b>Audio Mastering:</b> Adobe Audition / Custom DAW Setups</li>
+        <li><b>Hardware Architecture:</b> High-End GPU Acceleration Nodes</li>
       </ul>
     </td>
   </tr>
@@ -238,42 +286,19 @@
 <br>
 
 <!-- ==================================================================== -->
-<!--                     SYSTEM ARCHITECTURE PILLARS                      -->
+<!--                      FOOTER & QUOTE WIDGET                           -->
 <!-- ==================================================================== -->
 
-<h2 align="center" style="color: #00FFCC;">⚙️ ARCHITECTURAL PRINCIPLES</h2>
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="33%" align="center" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
-      <h3 style="color: #00FFCC;">🚀 PERFORMANCE FIRST</h3>
-      <p style="color: #8b949e; font-size: 13px;">Maximale Ausnutzung von Ressourcen, Speicher-Optimierung und lückenlose Profiler-Analysen.</p>
-    </td>
-    <td width="33%" align="center" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
-      <h3 style="color: #00FFCC;">🧹 CLEAN ARCHITECTURE</h3>
-      <p style="color: #8b949e; font-size: 13px;">Wartbarer, modularer Code ohne Spaghetti-Logik. Zero Compromise bei Struktur und Lesbarkeit.</p>
-    </td>
-    <td width="33%" align="center" style="border: 1px solid #00FFCC33; padding: 20px; border-radius: 10px; background: #161b22;">
-      <h3 style="color: #00FFCC;">✨ VISUAL COMPOSITING</h3>
-      <p style="color: #8b949e; font-size: 13px;">Perfekte Fusion von Backend-Power mit atemberaubender visueller 3D-Präsentation.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?authorColor=00FFCC&quoteColor=ffffff&bg_color=0d1117&border_color=00FFCC33" alt="Developer Quote" style="max-width: 100%;" />
+</div>
 
 <br>
 
-<!-- ==================================================================== -->
-<!--                      FOOTER & CYBERPUNK QUOTE                        -->
-<!-- ==================================================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:008080,100:00FFCC&height=140&section=footer&v=3" width="100%" alt="Footer Banner" />
+</div>
 
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?authorColor=00FFCC&quoteColor=ffffff&bg_color=0d1117&border_color=00FFCC33" alt="Developer Quote" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:008080,100:00FFCC&height=140&section=footer&v=3" width="100%" />
-</p>
-
-<p align="center">
-  <code style="color: #00FFCC;">TENTIX // SYSTEM ARCHITECTURE • ALL RIGHTS RESERVED • LEIPZIG 2026</code>
+  <code style="color: #00FFCC;">TENTIX // HIGH-PERFORMANCE SOFTWARE ARCHITECTURE & 3D ART &bull; LEIPZIG, GERMANY</code>
 </p>

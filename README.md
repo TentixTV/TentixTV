@@ -87,46 +87,21 @@
 <br>
 
 <!-- ==================================================================== -->
-<!--                     CONTRIBUTION CALENDAR (HEATMAP)                  -->
-<!-- ==================================================================== -->
-
-<h2 align="center" style="color: #FF0055; margin-bottom: 10px;">📈 CONTRIBUTION HISTORY</h2>
-
-<div align="center">
-  <a href="https://github.com/TentixTV">
-    <img src="https://ghchart.rshah.org/FF0055/TentixTV" alt="TentixTV Contribution Calendar" width="100%" style="max-width: 100%; border-radius: 6px; border: 1px solid #FF005533; padding: 10px; background-color: #0d1117;" />
-  </a>
-</div>
-
-<br>
-
-<!-- ==================================================================== -->
 <!--                      SYSTEM TELEMETRY & STATS                        -->
 <!-- ==================================================================== -->
 
-<h2 align="center" style="color: #FF0055; margin-bottom: 10px;">🏆 PERFORMANCE TELEMETRY</h2>
+<h2 align="center" style="color: #FF0055; margin-bottom: 15px;">📊 PERFORMANCE TELEMETRY</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TentixTV&theme=darkhub&no-bg=true&no-frame=true&margin-w=10&row=1&column=6" width="100%" alt="GitHub Trophies" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TentixTV&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF0055&text_color=ffffff&icon_color=FF0055&border_color=FF005544&hide_border=false" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentixTV&layout=compact&theme=dark&bg_color=0d1117&title_color=FF0055&text_color=ffffff&icon_color=FF0055&border_color=FF005544&hide_border=false&langs_count=6" height="165" alt="Top Languages" />
 </div>
 
 <br>
 
-<table width="100%" style="border-collapse: collapse; border: none; max-width: 100%;">
-  <tr>
-    <td width="50%" align="center" style="border: none; padding-right: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=TentixTV&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF0055&text_color=ffffff&icon_color=FF0055&border_color=FF005544&hide_border=false" width="100%" alt="GitHub Stats" style="max-width: 100%;" />
-    </td>
-    <td width="50%" align="center" style="border: none; padding-left: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentixTV&layout=compact&theme=dark&bg_color=0d1117&title_color=FF0055&text_color=ffffff&icon_color=FF0055&border_color=FF005544&hide_border=false&langs_count=6" width="100%" alt="Top Languages" style="max-width: 100%;" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TentixTV&theme=dark&background=0d1117&stroke=FF0055&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&border=FF005544" width="100%" alt="GitHub Commit Streak" style="max-width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TentixTV&theme=dark&background=0d1117&stroke=FF0055&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&border=FF005544" width="95%" alt="GitHub Commit Streak" style="max-width: 800px;" />
 </div>
 
 <br>

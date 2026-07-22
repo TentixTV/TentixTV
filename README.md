@@ -1,9 +1,9 @@
 <!-- ==================================================================== -->
-<!--                       TENTIX // PROFILE ARCHITECTURE                 -->
+<!--                         T3X // PROFILE ARCHITECTURE                  -->
 <!-- ==================================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:990033,100:FF0055&height=200&section=header&text=TENTIX&fontSize=70&fontColor=FFFFFF&animation=twinkling&v=3" width="100%" alt="Tentix Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:990033,100:FF0055&height=200&section=header&text=T3X&fontSize=70&fontColor=FFFFFF&animation=twinkling&v=3" width="100%" alt="T3x Header" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/LOCATION-LEIPZIG%2C%20GERMANY-FF0055?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=FF0055" /></a>&nbsp;
-  <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/AGE-21%20YEARS-CC0033?style=for-the-badge&labelColor=0d1117&logo=cakephp&logoColor=FF0055" /></a>&nbsp;
+  <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/IDENTITY-T3X-CC0033?style=for-the-badge&labelColor=0d1117&logo=fingerprint&logoColor=FF0055" /></a>&nbsp;
   <a href="https://github.com/TentixTV"><img src="https://img.shields.io/badge/ROLE-SOFTWARE%20ARCHITECT%20%26%203D%20ARTIST-FF0055?style=for-the-badge&labelColor=0d1117&logo=codeforces&logoColor=FF0055" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=TentixTV&color=FF0055&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" />
 </p>
@@ -30,7 +30,7 @@
         💻 EXECUTIVE PROFILE // OVERVIEW
       </h3>
       <p style="color: #ffffff; font-size: 14px; line-height: 1.6; margin-bottom: 12px;">
-        Willkommen. Ich bin <b>Sandro (Tentix)</b> — 21-jähriger <b>Software Architect & 3D Technical Artist</b> ansässig in Leipzig. Seit mehreren Jahren beschäftige ich mich intensiv mit der Konzeptionierung, Optimierung und Implementierung hochperformanter Softwarearchitekturen sowie der Erstellung komplexer 3D-Render-Pipelines.
+        Willkommen. Ich bin <b>T3x</b> — <b>Software Architect & 3D Technical Artist</b> aus Leipzig. Seit mehreren Jahren beschäftige ich mich intensiv mit der Konzeptionierung, Optimierung und Implementierung hochperformanter Softwarearchitekturen sowie der Erstellung komplexer 3D-Render-Pipelines.
       </p>
       <div style="padding: 10px 14px; border-radius: 6px; background: #0d1117; border-left: 3px solid #FF0055;">
         <span style="color: #FF0055; font-weight: bold; font-size: 13px;">🎯 Core Engineering Philosophy:</span>
@@ -148,32 +148,6 @@
 <br>
 
 <!-- ==================================================================== -->
-<!--                      SYSTEM TELEMETRY & STATS                        -->
-<!-- ==================================================================== -->
-
-<h2 align="center" style="color: #FF0055; margin-bottom: 15px;">📊 PERFORMANCE TELEMETRY</h2>
-
-<table width="100%" style="border-collapse: collapse; border: none; max-width: 100%;">
-  <tr>
-    <td width="50%" align="center" style="border: none; padding-right: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=TentixTV&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF0055&text_color=ffffff&icon_color=FF0055&border_color=FF005544&hide_border=false" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" style="border: none; padding-left: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TentixTV&layout=compact&theme=dark&bg_color=0d1117&title_color=FF0055&text_color=ffffff&icon_color=FF0055&border_color=FF005544&hide_border=false&langs_count=6" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Zitat-Widget -->
-<div align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?authorColor=FF0055&quoteColor=ffffff&bg_color=0d1117&border_color=FF005544" alt="Developer Quote" style="max-width: 100%; border-radius: 6px;" />
-</div>
-
-<br>
-
-<!-- ==================================================================== -->
 <!--                      FOOTER & BANNER                                 -->
 <!-- ==================================================================== -->
 
@@ -182,5 +156,5 @@
 </div>
 
 <p align="center">
-  <code style="color: #FF0055; background: #0d1117; padding: 4px 12px; border-radius: 4px; border: 1px solid #FF005533;">TENTIX // SOFTWARE ARCHITECTURE & 3D ART &bull; LEIPZIG, GERMANY</code>
+  <code style="color: #FF0055; background: #0d1117; padding: 4px 12px; border-radius: 4px; border: 1px solid #FF005533;">T3X // SOFTWARE ARCHITECTURE & 3D ART &bull; LEIPZIG, GERMANY</code>
 </p>

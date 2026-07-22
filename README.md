@@ -1,5 +1,5 @@
 <!-- ==================================================================== -->
-<!--                     TENTIX // PROFILE ARCHITECTURE                   -->
+<!--                       TENTIX // PROFILE ARCHITECTURE                 -->
 <!-- ==================================================================== -->
 
 <div align="center">
@@ -71,7 +71,7 @@
 <br>
 
 <!-- ==================================================================== -->
-<!--                    CORE ARCHITECTURAL PILLARS                        -->
+<!--                     CORE ARCHITECTURAL PILLARS                       -->
 <!-- ==================================================================== -->
 
 <h2 align="center" style="color: #00FFCC;">⚙️ ARCHITECTURAL & ENGINEERING PILLARS</h2>
@@ -216,7 +216,33 @@
 <br>
 
 <!-- ==================================================================== -->
-<!--                     SYSTEM PERFORMANCE METRICS                       -->
+<!--                     CONTRIBUTION HISTORY & ACTIVITY                 -->
+<!-- ==================================================================== -->
+
+<h2 align="center" style="color: #00FFCC;">📈 CONTRIBUTION HISTORY & SYSTEM ACTIVITY</h2>
+
+<p align="center" style="color: #8b949e;">
+  Visuelle Echtzeit-Historie aller Commits, Repository-Aktivitäten und Code-Contributions
+</p>
+
+<!-- Tägliche Contribution Heatmap -->
+<div align="center">
+  <a href="https://github.com/TentixTV">
+    <img src="https://ghchart.rshah.org/00FFCC/TentixTV" alt="TentixTV Contribution Calendar" width="100%" style="max-width: 100%; border-radius: 8px; border: 1px solid #00FFCC33; padding: 12px; background-color: #0d1117;" />
+  </a>
+</div>
+
+<br>
+
+<!-- Aktivitäts-Graph Verlauf -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TentixTV&theme=react-dark&bg_color=0d1117&hide_border=false&border_color=00FFCC55&color=00FFCC&line=00FFCC&point=ffffff&area=true&hide_title=false" width="100%" alt="TentixTV Activity Graph" style="max-width: 100%;" />
+</div>
+
+<br>
+
+<!-- ==================================================================== -->
+<!--                      SYSTEM PERFORMANCE METRICS                      -->
 <!-- ==================================================================== -->
 
 <h2 align="center" style="color: #00FFCC;">🏆 LIVE SYSTEM METRICS & PERFORMANCE TELEMETRY</h2>
@@ -255,7 +281,7 @@
 <br>
 
 <!-- ==================================================================== -->
-<!--                     DEVELOPMENT WORKSTATION SETUP                    -->
+<!--                      DEVELOPMENT WORKSTATION SETUP                   -->
 <!-- ==================================================================== -->
 
 <h2 align="center" style="color: #00FFCC;">🖥️ DEVELOPMENT ENVIRONMENT & INFRASTRUCTURE</h2>
